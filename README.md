@@ -15,7 +15,8 @@ The titles and preview text of the news articles were scraped and stored in a li
  The HTML table was extracted into a Pandas DataFrame, which was created with all columns from the website. 
  
  <img width="436" alt="Screenshot 2023-05-18 at 4 54 04 PM" src="https://github.com/breeliu2/scraping_mars/assets/124847109/0f89d0f0-c023-4305-9f5c-a6dbc09ae505">
- Using the Pandas DataFrame to answer the following questions: 
+ 
+ Use the Pandas DataFrame to answer the following questions: 
  * How many months exist on Mars?
  * How many Martian (and not Earth) days worth of data exist in the scraped dataset?
  * What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
