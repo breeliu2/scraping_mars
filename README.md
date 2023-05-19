@@ -36,7 +36,7 @@ The titles and preview text of the news articles were scraped and stored in a li
     - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
     - Visually estimate the result by plotting the daily minimum temperature.
     - ![image](https://github.com/breeliu2/scraping_mars/assets/124847109/00c1907c-161a-4efd-a8f6-515907fa506f)
-    - 
+    - There is an estimated 680 Earth days in one Martian year by looking at the graph. The internet confirms that one Mars year is equal to 687 Earth days.  
     
 
 
